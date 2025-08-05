@@ -14,8 +14,7 @@ This repository contains SQL queries covering:
 - ✅ Customer and product segmentation
 - ✅ Aggregation and ranking techniques
 
-Each script is modular and demonstrates a specific analytical technique or SQL concept, making it easy to adapt to your own datasets or use in interviews and projects.
-
+Each script is modular and demonstrates a specific analytical technique or SQL concept, thus showcasing my ability and understanding of data base management, Exploratory Data Analysis and reporting using MySQL
 ---
 
 ## 📁 Folder Structure
@@ -28,3 +27,10 @@ sql-data-analytics-project/
 ├── cumulative_metrics/
 ├── revenue_analysis/
 └── README.md
+
+## Contact Information
+
+- **Name:** Reuben Samuel  
+- **LinkedIn:** [Reuben Samuel](https://linkedin.com/in/your-username](https://www.linkedin.com/in/reuben-samuel-b55b97234/)  
+- **Phone:** +2348140424760  
+- **Email:** reubensamuel1111@gmail.com
