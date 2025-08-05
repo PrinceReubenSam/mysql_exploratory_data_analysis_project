@@ -1,0 +1,30 @@
+-- 📥 Data Import 
+
+-- The following datasets were loaded into the project using 
+-- SQL Server Management Studio's Data Import Wizard:
+
+-- - gold.dim_customers
+-- - gold.dim_products
+-- - gold.fact_sales
+
+-- 🛠️ General Import Procedure:
+
+-- 1. Launch Import Wizard:
+--    In SSMS, right-click the database → Tasks → Import Data...
+
+-- 2. Choose Data Source:
+--    Select the source type (e.g., Excel, CSV, or flat file).
+
+-- 3. Specify Destination:
+--    Choose your SQL Server and target database.
+
+-- 4. Select Tables or Files:
+--    Map the source files to the respective destination tables.
+
+-- 5. Column Mapping:
+--    Ensure data types and column mappings are correct.
+
+-- 6. Run Import:
+--    Complete the wizard and verify successful data load.
+
+-- All three tables were successfully imported and validated using this procedure.
