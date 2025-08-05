@@ -31,6 +31,6 @@ sql-data-analytics-project/
 ## Contact Information
 
 - **Name:** Reuben Samuel  
-- **LinkedIn:** [Reuben Samuel](https://linkedin.com/in/your-username](https://www.linkedin.com/in/reuben-samuel-b55b97234/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)]([https://linkedin.com/](https://www.linkedin.com/in/reuben-samuel-b55b97234/])
 - **Phone:** +2348140424760  
 - **Email:** reubensamuel1111@gmail.com
