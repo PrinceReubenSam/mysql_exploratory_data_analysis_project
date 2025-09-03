@@ -1,6 +1,6 @@
 # 📊 SQL Data Analytics Project
 
-A comprehensive collection of SQL scripts designed for data exploration, analytics, and reporting. The project showcases practical SQL use cases for analyzing relational data in a business context using **MySQL**.
+A comprehensive collection of SQL scripts designed for data exploration, analytics, and reporting. The project showcases practical SQL use cases for analyzing relational data in a business context using **SQL Server**.
 
 ---
 
